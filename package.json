@@ -11,7 +11,7 @@
     "react-dom": "16.13.1",
     "react-scripts": "3.4.1",
     "react-three-fiber": "5.0.0-beta.5",
-    "three": "0.125.0",
+    "three": "0.137.0",
     "use-cannon": "0.4.9",
     "zustand": "2.2.3"
   },
